@@ -17,7 +17,7 @@ To use these dotfiles on your own system, follow these steps:
 
 1. Clone the repository to your local machine:
    ```shell
-   git clone https://github.com/biratdatta/.config.git
+ git clone https://github.com/biratdatta/.config.git
    ```
    
 2. Navigate to the specific directory of the tool or application you are interested in:
