@@ -16,11 +16,11 @@ The repository is organized into directories based on the tools or applications 
 To use these dotfiles on your own system, follow these steps:
 
 1. Clone the repository to your local machine:
-   ```shell
+ ```shell  
  git clone https://github.com/biratdatta/.config.git
-   ```
+  ```
    
-2. Navigate to the specific directory of the tool or application you are interested in:
+3. Navigate to the specific directory of the tool or application you are interested in:
 
 ```shell
 cd .config/<directory>
