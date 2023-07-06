@@ -9,6 +9,7 @@ This repository contains my personal dotfiles and configuration files for variou
 The repository is organized into directories based on the tools or applications they correspond to. Each directory contains the relevant configuration files and any additional resources or documentation.
 
 - `nvim`: Configuration files for Neovim.
+- `fish`: Configuration files for Fish.
 
 
 ## Usage
